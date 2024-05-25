@@ -4,6 +4,7 @@ public class Login {
 	
 	private Long mobileNumber;
 	private String password;
+	
 	public Login(Long mobileNumber, String password) {
 		super();
 		this.mobileNumber = mobileNumber;
