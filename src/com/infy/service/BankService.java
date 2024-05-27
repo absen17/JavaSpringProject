@@ -3,7 +3,6 @@ package com.infy.service;
 import java.util.List;
 
 import com.infy.model.Account;
-import com.infy.model.Login;
 import com.infy.model.Transaction;
 
 public interface BankService {
