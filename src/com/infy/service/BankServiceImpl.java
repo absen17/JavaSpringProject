@@ -17,7 +17,7 @@ public class BankServiceImpl implements BankService {
 
     @Override
     public String loginUser(Long mobileNo) {
-        // Implementation of user login
+        // Implementation user login
         return "Login successful for mobile number: " + mobileNo;
     }
 
